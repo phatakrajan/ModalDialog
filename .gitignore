@@ -1,0 +1,17 @@
+npm-debug.log
+.DS_Store
+
+*.js.map
+*.metadata.json
+
+/.vs
+/.git
+/.vscode
+
+/**/*.js
+/node_modules
+
+platforms/
+platforms/**/
+lib/**/
+hooks/**/
